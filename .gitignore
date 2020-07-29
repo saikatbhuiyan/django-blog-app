@@ -10,7 +10,7 @@ media
 !.gitignore
 !.travis.yml
 /.env
-/static
+/post/static
 /.vscode
 
 ### Django ###
@@ -22,4 +22,4 @@ local_settings.py
 db.sqlite3
 /media
 venv
-/static
+/post/static
