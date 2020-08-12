@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'taggit',
 
     'post.apps.PostConfig',
+    'account.apps.AccountConfig',
 ]
 
 MIDDLEWARE = [
